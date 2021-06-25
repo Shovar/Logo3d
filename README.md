@@ -72,4 +72,4 @@ IMPORTANTE:
 - Si durante la ejecución el programa necesita leer alguna entrada, las irá pidiendo una a una y por orden de llamada sacando por consola el símbolo '?'. Tratará como error el poner todas las entradas en una misma línea.
 
 ## Autor
-Antonio García Alcón
+Shovar
