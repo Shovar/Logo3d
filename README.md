@@ -1,4 +1,4 @@
-# Logo3D
+# Logo3D-(LP-FIB)
 
 Logo3D es un lenguaje de programación que moderniza el LOGO clásico adoptando una nueva y elegante sintaxis y situando a la popular tortuga en un entorno 3D.
 
